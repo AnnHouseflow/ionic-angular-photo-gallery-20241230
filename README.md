@@ -12,7 +12,7 @@
   - Angular @^18.2.12
   - zone.js ~0.14.10
   - typescript ~^5.5.4
-  - `f/Angular18+PWA`
+- `f/Angular18+PWA`
   - Angular @^18.2.12
   - zone.js ~0.14.10
   - typescript ~^5.5.4
