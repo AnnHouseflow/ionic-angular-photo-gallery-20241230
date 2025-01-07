@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232759876254",
+    "project_id": "photo-gallery-20241230",
+    "storage_bucket": "photo-gallery-20241230.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232759876254:android:f4d7649cdf1bb739ea798f",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAJhpqol_XzGjdMRTjDyB_NHC7k4HIXwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
